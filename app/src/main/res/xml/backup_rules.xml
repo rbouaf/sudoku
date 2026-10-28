@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- DataStore lives in filesDir/datastore/, games in filesDir/games/. Both, or neither is backed up. -->
+    <include domain="sharedpref" path="." />
+    <include domain="file" path="datastore/" />
+    <include domain="file" path="games/" />
+</full-backup-content>

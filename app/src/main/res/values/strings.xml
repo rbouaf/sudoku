@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The full name: system settings, app info, the store listing. -->
+    <string name="app_name">Material Sudoku</string>
+    <!-- Under the icon, chosen in Settings → App name on your phone. -->
+    <string name="launcher_latin">Sudoku</string>
+    <string name="launcher_kanji" translatable="false">数独</string>
+</resources>
